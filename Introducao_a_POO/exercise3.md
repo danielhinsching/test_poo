@@ -1,4 +1,4 @@
-### 3 Qual das alternativas abaixo melhor explica o termo "propriedade"?  
+# 3 Qual das alternativas abaixo melhor explica o termo "propriedade"?  
 
 - [ ] a) Agrupa o código relacionado a um tópico.  
 - [x] b) Uma variável dentro de uma classe.  
