@@ -1,4 +1,4 @@
-### 1 Qual das alternativas abaixo melhor define o termo “classe”?  
+# 1 Qual das alternativas abaixo melhor define o termo “classe”?  
 
 - [x] a) Uma coleção de variáveis e funções trabalhando com essas variáveis.  
 - [ ] b) Define e obtém as propriedades e métodos dela.  

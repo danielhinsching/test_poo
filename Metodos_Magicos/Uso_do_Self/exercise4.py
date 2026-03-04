@@ -1,0 +1,9 @@
+class Usuario:
+    def __init__(self, primeiroNome, ultimoNome):
+        self.primeiroNome = primeiroNome
+        self.ultimoNome = ultimoNome
+    def hello(self):
+        return f"Olá,{self.primeiroNome}"
+
+usuario1 = Usuario("Jonnie", "Bravo")
+print(usuario1.hello())
